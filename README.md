@@ -20,7 +20,7 @@ After installing, note the path (e.g. C:\Program Files\Tesseract-OCR\tesseract.e
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
 4. Download Poppler for PDF Rendering
-📥 Windows: https://github.com/oschwartz10612/poppler-windows/releases
+Windows: https://github.com/oschwartz10612/poppler-windows/releases
 
 Extract the ZIP and copy the path to the bin folder (e.g. C:\poppler-24.08.0\Library\bin)
 
